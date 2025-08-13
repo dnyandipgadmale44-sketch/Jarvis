@@ -1,0 +1,9 @@
+intents:
+  open_automation_job:
+    type: open
+    path: "C:\\Users\\dnyan\\OneDrive\\Desktop\\Automation Job"
+
+  # (your existing ones stay here)
+  open_downloads:
+    type: open
+    path: "C:\\Users\\dnyan\\Downloads"
